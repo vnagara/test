@@ -1,0 +1,15 @@
+{
+    "name":         "vnagara/test-asset",
+    "type":         "asset",
+    "description":  "Test assets",
+
+    "require": {
+        "libra/libra-assets-installer": "dev-dev@dev"
+    },
+            
+    "target-dir": "js",
+    
+    "extra": {
+        "add-target-dir": false
+    }
+}
