@@ -4,7 +4,8 @@
     "description":  "Test assets",
 
     "require": {
-        "libra/libra-assets-installer": "dev-dev@dev"
+        "libra/libra-assets-installer": "2.*",
+        "doctrine/inflector":"1.0.*"
     },
             
     "target-dir": "js",
