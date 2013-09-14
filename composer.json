@@ -5,7 +5,8 @@
 
     "require": {
         "libra/libra-assets-installer": "2.*",
-        "doctrine/inflector":"1.0.*"
+        "doctrine/inflector": "1.0.*",
+        "libra/libra": "0.*"
     },
             
     "target-dir": "js",
